@@ -13,7 +13,7 @@ namespace 誕生星座1
             while(true)
             {
                 int month,date;     //monthとdateという変数を置く
-                string a = "あなたの星座は、";  
+                string a = "あなたの星座は、";      //文をaとbの変数に放り込む
                 string b = "です。";
                 
 
