@@ -166,8 +166,8 @@ namespace 誕生星座1
                 {
                     Console.Write("正しくありません");
                 }
-                Console.Write("終了したいばあいは、『e』を入力してください。");
-                if(Console.ReadLine() == "e")
+                Console.Write("終了したいばあいは、『end』と入力してください。");
+                if(Console.ReadLine() == "end")
                 {
                     break;
                 }
